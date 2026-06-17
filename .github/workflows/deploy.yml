@@ -1,4 +1,7 @@
 name: build-and-deploy
+permissions:
+  contents: write
+  pages: write
 on:
   push:
     branches: [ main ]
