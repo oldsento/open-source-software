@@ -1,0 +1,1 @@
+var e=`/open-source-software/music/msv.webp`;export{e as t};

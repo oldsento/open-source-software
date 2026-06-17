@@ -1,0 +1,1 @@
+var e=`/open-source-software/banner/others.webp`;export{e as t};
