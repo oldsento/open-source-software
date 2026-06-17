@@ -7,7 +7,7 @@
  */
 import type { DefaultTheme } from 'vitepress'
 
-export const hostname: string = 'https://wotaku.wiki'
+export const hostname: string = 'https://oldsento.github.io/open-source-software/'
 export const excludedFiles = ['t.md', 'sandbox.md']
 
 // @unocss-include
