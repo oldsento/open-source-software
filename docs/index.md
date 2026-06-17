@@ -51,7 +51,7 @@ const { frontmatter } = useData()
 
 <main class="wotaku-home">
   <section class="wotaku-hero" aria-labelledby="wotaku-hero-title">
-    <img class="wotaku-hero-logo" src="/asset/hero.svg" alt="Wotaku" />
+    <img class="wotaku-hero-logo" src="/open-source-software/asset/hero.svg" alt="Wotaku" />
   </section>
 
   <VPFeatures :features="frontmatter.features" />
