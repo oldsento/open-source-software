@@ -1,45 +1,41 @@
-# <img src="/docs/public/asset/fav.svg" width="30px"> Wotaku
+# <img src="/docs/public/asset/fav.svg" width="30px"> 开源软件汇总
 
-An otaku index for everything! Kindly consider giving the repository a ⭐ star as they motivate us to further refine the wiki. Also, don't hesitate to [suggest ideas](#submitting-a-link).
+一个开源软件索引！请考虑给这个资源库打颗星，因为他们激励我们进一步完善维基。同时，请不要犹豫[提出建议](#submitting-a-link).
 
 ![](/docs/public/banner.png)
 
-# Submitting a link
+# 提交链接
 
 <details>
 
-<summary> 🚨 Submission Rules 🚨 </summary>
+<summary> 🚨 提交规则摘要 🚨 </summary>
 
-## ⛔️ Things we won't add in the wiki
+## ⛔️ 我们不会在wiki中添加的东西
 
-1. Websites that are only or primarily for generative AI (Chatbot, roleplaying bot, ai art generator
-   etc.)
-2. Sites that
-   - imitate other websites
-   - have very small libraries
-   - only feature MTL'd works
-   - are mostly paywalled
-   - sell unofficial merch
-   - exclusively sell sex toys
-3. Adult content sites similar to OnlyFans
-4. Software that's too general (for example Windows OS related or Tweaking for privacy)
-5. Sites focused on lolicon or furry stuff
-6. Sites scraping only a couple popular sources
-7. Sites scraping the servers of other scrapers
-8. Sites found in the Unsafe lists of [Privateersclub](https://privateers.wiki/unsafe) and/or [r/PiratedGames](https://rentry.org/pgames#untrusted-sites)
+1. 仅或主要用于生成式人工智能的网站（聊天机器人、角色扮演机器人、ai美术生成器等）
+2. 网站
+- 模仿其他网站
+- 拥有非常小的库
+- 只提供MTL作品
+- 大多是付费的
+- 销售非官方商品
+-专卖性玩具
+3. 与OnlyFans类似的成人内容网站
+4. 过于一般化的软件（例如Windows操作系统相关软件或隐私调整软件）
+5. 专注于lolicon或毛茸茸的东西的网站
+6. 只抓取几个热门资源的网站
+7. 抓取其他抓取者服务器的网站
+8. 在不安全名单中发现的网站 [Privateersclub](https://privateers.wiki/unsafe) 和[r/PiratedGames](https://rentry.org/pgames#untrusted-sites)
 
-## ⚠️ Things we will try to avoid
+## ⚠️ 我们会尽量避免的事情
 
-1. Closed source software (with good FOSS alternatives)
-2. Sites that only use hosters such Katfile, Nitroflare, DDownload and Rapidgator
-3. Sites that aren't primarily for anime, but have it as a side product
-4. Things that are too niche and/or have a small userbase
-
+1. 闭源软件（有好的FOSSltrntvs）
+2. 只使用Katfile、Nitroflare、DDownload和Rapidgator等主机的网站
+3. 不是主打动漫，而是把动漫作为副产品的网站
+4. 过于小众和/或用户基础较小的事情
 </details>
 
-## Discord (Recommended)
-
-You can submit websites / feedback in our [discord server](https://discord.gg/vShRGx8ZBC). 
+您可以在我们的[不和谐]中提交网站/反馈 [discord server](https://discord.gg/vShRGx8ZBC). 
 
 <p align="center">
   <a href="https://discord.gg/vShRGx8ZBC">
@@ -51,14 +47,14 @@ You can submit websites / feedback in our [discord server](https://discord.gg/vS
 
 ## Wiki
 
-You can click the **Feedback** button (in the header of every section) to send us your link or any suggestion. You don't have to make any account.
+您可以点击**反馈**按钮（在每个部分的标题）发送给我们您的链接或任何建议。你不需要做任何账户。
 
 ## GitHub
 
 You can also post an [issue](https://github.com/wotakumoe/Wotaku/issues/new) on the Github page.
 
-> [!CAUTION]
-> **Don't PR** without going through us from [Discord](#discord). It will be **closed** without giving any reason. We may choose not to add the submitted site if we don't feel like it.
+> [!谨慎]
+> **不要在没有经过我们的情况下从[Discord]（# Discord）发PR**。会**关闭**，不给任何理由。如果我们不喜欢提交的网站，我们可能会选择不添加。
 
 
 # Wotaku Star History
