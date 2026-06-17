@@ -25,7 +25,7 @@ const imageSize = ref('550px') // Fixed size for the image
       <p class="text-body-lg flex flex-wrap items-center justify-center leading-snug text-gray-400">
         Umm.... you shouldn’t be here
         <span class="icon-container mx-1">
-          <img class="icon-img" src="/asset/inahuh.png" alt="Inahuh Icon" />
+          <img class="icon-img" src=" /open-source-software/asset/inahuh.png" alt="Inahuh Icon" />
         </span>
         If you got here from a link, please click
         <span class="icon-container mx-1">
