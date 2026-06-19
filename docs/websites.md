@@ -83,13 +83,13 @@ outline: 2
 
 | Category | Websites |
 | :--- | :--- |
-| **Torrent** | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) |
+| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) |
 | ^^ | [AniRena](https://www.anirena.com/) |
 | ^^ | [nekoBT](https://nekobt.to/) |
 | ^^ | [Shana Project](https://www.shanaproject.com/) |
 | ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
-| **Reuploads** | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
-| ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
+| **Reuploads** :ddl: | [Tokyo Insider](https://www.tokyoinsider.com/) |
+| ^^ | [Chauthanh](https://chauthanh.info/) :acc: |
 | **BDMV** :ljp::host: | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
 | ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) [:prx:](https://rentry.org/wotaxy#asia-media-blog) |
@@ -207,12 +207,12 @@ Some of the series may not be available depending on your region.
 
 | Websites | Tracking | Sources | Reading mode | Social |
 |----------|----------|---------|--------------|--------|
-| [MangaTaro](https://mangataro.org/home) | :ie::msync: | :ps::up: | :sp::dp::ls: | :cmnt: |
-| [MangaKatana](https://mangakatana.com/) | :ie::msync: | :ss: | :ls: | :cmnt: |
 | [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaKatana](https://mangakatana.com/) | :ie::msync: | :ss: | :ls: | :cmnt: |
 | [MangaBall](https://mangaball.net/)  | :msync: | :ps::up: | :ls: | :cmnt: |
 | [OniSaga](https://onisaga.com/home) ==OniSaga== | :ie: | :ss::up: | :sp::dp::ls: | :no: |
 | [Comix](https://comix.to/)  ==Comix== | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [MangaTaro](https://mangataro.org/home) | :ie::msync: | :ps::up: | :sp::dp::ls: | :cmnt: |
 | [MangaK](https://mangak.io/home) | :no: | :ss: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) :acc: | :msync: | :ss: | :ls: | :cmnt: |
 | [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :msync: | :ss: | :sp::ls:  | :cmnt: |
@@ -236,7 +236,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 | [TopManhua](https://manhuatop.org/) | :msync: | :ss: | :sp::ls: | :cmnt: |
 | [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | :no: | :ss: | :ls: | :cmnt: |
 
-<Block link="/nsfw#pornhwa">Pornhwa focused websites are listed here</Block>
+<Block link="/nsfw?tabs=pornhwa">Pornhwa focused websites are listed here</Block>
 
 == Download
 
