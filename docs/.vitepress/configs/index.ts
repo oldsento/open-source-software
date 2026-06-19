@@ -97,12 +97,12 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     logo: { src: '/asset/fav.svg' },
     sidebar,
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/wotakumoe/Wotaku' },
+      { icon: 'github', link: 'https://github.com/oldsento/open-source-software' },
       { icon: 'discord', link: 'https://discord.gg/vShRGx8ZBC' }
     ],
     footer: {
       message:
-        `<a href="https://github.com/wotakumoe">The Wotaku Team</a> <span class="divider">|</span> <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">${
+        `<a href="https://github.com/oldsento/open-source-software">The Wotaku Team</a> <span class="divider">|</span> <a href="https://github.com/oldsento/open-source-software/commit/${GIT_COMMIT}">${
           GIT_COMMIT.slice(0, 7)
         }</a>`,
       copyright: 'made with love and eepy energy'
