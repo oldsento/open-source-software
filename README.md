@@ -36,7 +36,7 @@
 4. 过于小众和/或用户基础较小的事情
 </details>
 
-您可以在我们的[不和谐]中提交网站/反馈 [discord server](https://discord.gg/vShRGx8ZBC). 
+您可以向我们提交网站/反馈 [discord server](https://discord.gg/vShRGx8ZBC). 
 
 <p align="center">
   <a href="https://discord.gg/vShRGx8ZBC">
@@ -52,7 +52,7 @@
 
 ## GitHub
 
-You can also post an [issue](https://github.com/wotakumoe/Wotaku/issues/new) on the Github page.
+You can also post an https://github.com/oldsento/open-source-software/issues/new) on the Github page.
 
 > [!谨慎]
 > **不要在没有经过我们的情况下从[Discord]（# Discord）发PR**。会**关闭**，不给任何理由。如果我们不喜欢提交的网站，我们可能会选择不添加。
