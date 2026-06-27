@@ -44,8 +44,8 @@ og:
 
 
 ::: tip README
-- To use Mihon/Aniyomi extensions in Mangayomi, Anymex or Dartotsu, you have to enable apkbridge.
-- [**Anymex**](https://github.com/RyanYuuki/AnymeX) doesn't support Mihon, Aniyomi and Cloudstream extensions in iOS.
-- Similarly [**Mangayomi**](https://github.com/kodjodevf/mangayomi) doesn't support Mihon and Aniyomi extensions in iOS.
+- 在Mangayomi, Anymex or Dartotsu使用Mihon/Aniyomi插件需要安装/启用apkbridge
+- [**Anymex**](https://github.com/RyanYuuki/AnymeX)  不能添加Mihon, Aniyomi 和 Cloudstream 在 iOS平台.
+- Similarly [**Mangayomi**](https://github.com/kodjodevf/mangayomi) 不能添加 Mihon 和 Aniyomi 插件在 iOS平台.
 
 :::
