@@ -40,12 +40,22 @@ og:
 - Mangayomi : (Mihon), (Aniyomi), (Mangayomi);
 - Tsundoku : (Mihon), (LNReader), (Tsundoku), (Shosetsu);
 - Usagi : (Kotatsu), (Mihon), (LNreader);
+- Manatan : (Mihon), (Aniyomi), (Aidoku);
+- OtakuWorld : (Mihon), (Aniyomi), (LNReader);
+- Rayniyomi : (Mihon), (Aniyomi), (LNReader);
+- Yomiko : (Mihon), (LNReader);
+- Tadami : (Mihon), (Aniyomi), (LNReader);
+- Tsukimi : (Mihon), ( Kotatsu);
+- Tsundoku : (Mihon), (LNReader);
+- Chimahon : (Mihon), (LNReader);
+- Hayai : (Mihon), (LNReader);
+- MIYO : (Mihon), (Kotatsu); 
 :::
 
 
 ::: tip README
-- 在Mangayomi, Anymex or Dartotsu使用Mihon/Aniyomi插件需要安装/启用apkbridge
+- 在Mangayomi, Anymex 和 Dartotsu使用Mihon/Aniyomi插件需要安装/启用apkbridge
 - [**Anymex**](https://github.com/RyanYuuki/AnymeX)  不能添加Mihon, Aniyomi 和 Cloudstream 在 iOS平台.
 - Similarly [**Mangayomi**](https://github.com/kodjodevf/mangayomi) 不能添加 Mihon 和 Aniyomi 插件在 iOS平台.
-
+- [**OtakuWorld**](https://github.com/jakepurple13/OtakuWorld) 分别为aniyomiworld(动画,mangaworld(漫画,lightnovelworld(小说这3个独立APP，
 :::
