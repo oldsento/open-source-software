@@ -46,13 +46,10 @@ og:
 - Yomiko : (Mihon), (LNReader);
 - Tadami : (Mihon), (Aniyomi), (LNReader);
 - Tsukimi : (Mihon), ( Kotatsu);
-- Tsundoku : (Mihon), (LNReader);
 - Chimahon : (Mihon), (LNReader);
 - Hayai : (Mihon), (LNReader);
 - MIYO : (Mihon), (Kotatsu); 
-
 :::
-
 
 ::: tip README
 - 在Mangayomi, Anymex 和 Dartotsu使用Mihon/Aniyomi插件需要安装/启用apkbridge
